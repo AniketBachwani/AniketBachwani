@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniket Bachwani</h1>
 <h3 align="center">A passionate Software Devloper from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbachwani&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbachwani" /> </p>
+
+- 🔭 Flutter, Node Js,Express Js , MongoDb, Firebase.
 
 - 🌱 I’m currently learning **Node js , Machine Learning**
 
@@ -10,6 +14,7 @@
 - 📫 How to reach me **aniketbachwani0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
